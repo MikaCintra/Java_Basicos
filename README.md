@@ -1,5 +1,5 @@
 # Portfólio — Projetos de Fundamentos em Java
-Conjunto de projetos didáticos (CLI) cobrindo sequencial, condicionais, laços, vetores e matrizes.
+Conjunto de projetos didáticos para praticar sequencial, condicionais, laços, vetores e matrizes.
 
 ## Projetos
 1. [Calculadora] — entrada/saída, operadores
